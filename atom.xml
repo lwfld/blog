@@ -5,9 +5,9 @@
   <subtitle>nothing to say</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://susanoo.me/"/>
   <updated>2018-05-14T02:46:26.876Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://susanoo.me/</id>
   
   <author>
     <name>Susanoo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>欢迎</title>
-    <link href="http://yoursite.com/2018/05/14/welcome/"/>
-    <id>http://yoursite.com/2018/05/14/welcome/</id>
+    <link href="http://susanoo.me/uncategorized/welcome/"/>
+    <id>http://susanoo.me/uncategorized/welcome/</id>
     <published>2018-05-14T02:21:06.000Z</published>
     <updated>2018-05-14T02:46:26.876Z</updated>
     
