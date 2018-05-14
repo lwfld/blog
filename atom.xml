@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-14T02:36:28.080Z</updated>
+  <updated>2018-05-14T02:46:26.876Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,24 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>welcome</title>
+    <title>欢迎</title>
     <link href="http://yoursite.com/2018/05/14/welcome/"/>
     <id>http://yoursite.com/2018/05/14/welcome/</id>
     <published>2018-05-14T02:21:06.000Z</published>
-    <updated>2018-05-14T02:36:28.080Z</updated>
+    <updated>2018-05-14T02:46:26.876Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="欢迎"><a href="#欢迎" class="headerlink" title="欢迎"></a>欢迎</h1><p>这里会不定期地记录我的</p><p>学习，</p><p>分享</p><p>或是说些废话。</p><p>哈哈，</p><p>多谢到访，</p><p>希望不是误入歧途。</p><p>–Susanoo</p>]]></content>
+    <content type="html"><![CDATA[<p>这里会不定期地记录我的</p><p>学习，</p><p>分享</p><p>或是说些废话。</p><p>哈哈，</p><p>多谢到访，</p><p>希望不是误入歧途。</p><p>–Susanoo</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;欢迎&quot;&gt;&lt;a href=&quot;#欢迎&quot; class=&quot;headerlink&quot; title=&quot;欢迎&quot;&gt;&lt;/a&gt;欢迎&lt;/h1&gt;&lt;p&gt;这里会不定期地记录我的&lt;/p&gt;
+        &lt;p&gt;这里会不定期地记录我的&lt;/p&gt;
 &lt;p&gt;学习，&lt;/p&gt;
 &lt;p&gt;分享&lt;/p&gt;
 &lt;p&gt;或是说些废话。&lt;/p&gt;
 &lt;p&gt;哈哈，&lt;/p&gt;
-&lt;p&gt;多谢到访
+&lt;p&gt;多谢到访，&lt;/p&gt;
+&lt;p&gt;希望不是误入歧途。&lt;/p&gt;
+&lt;p&gt;–Susanoo&lt;/p&gt;
+
       
     
     </summary>
