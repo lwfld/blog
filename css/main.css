@@ -185,7 +185,7 @@ th {
 }
 body {
   position: relative;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: Sanchez, "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 14px;
   line-height: 2;
   color: #555;
@@ -216,7 +216,7 @@ h6 {
   padding: 0;
   font-weight: bold;
   line-height: 1.5;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: Roboto Slab, Sanchez, "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 h2,
 h3,
@@ -226,51 +226,51 @@ h6 {
   margin: 20px 0 15px;
 }
 h1 {
-  font-size: 22px;
+  font-size: 28px;
 }
 @media (max-width: 767px) {
   h1 {
-    font-size: 18px;
+    font-size: 24px;
   }
 }
 h2 {
-  font-size: 20px;
+  font-size: 26px;
 }
 @media (max-width: 767px) {
   h2 {
-    font-size: 16px;
+    font-size: 22px;
   }
 }
 h3 {
-  font-size: 18px;
+  font-size: 24px;
 }
 @media (max-width: 767px) {
   h3 {
-    font-size: 14px;
+    font-size: 20px;
   }
 }
 h4 {
-  font-size: 16px;
+  font-size: 22px;
 }
 @media (max-width: 767px) {
   h4 {
-    font-size: 12px;
+    font-size: 18px;
   }
 }
 h5 {
-  font-size: 14px;
+  font-size: 20px;
 }
 @media (max-width: 767px) {
   h5 {
-    font-size: 10px;
+    font-size: 16px;
   }
 }
 h6 {
-  font-size: 12px;
+  font-size: 18px;
 }
 @media (max-width: 767px) {
   h6 {
-    font-size: 8px;
+    font-size: 14px;
   }
 }
 p {
@@ -1023,8 +1023,7 @@ pre .javascript .function {
 .pagination .next {
   margin-right: 0;
 }
-.pagination .page-number.current,
-.algolia-pagination .current .page-number {
+.pagination .page-number.current {
   color: #fff;
   background: #ccc;
   border-top-color: #ccc;
@@ -1126,9 +1125,9 @@ pre .javascript .function {
   display: inline-block;
   vertical-align: top;
   line-height: 36px;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: normal;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: Bungee Shade, Sanchez, "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .site-subtitle {
   margin-top: 10px;
@@ -1217,7 +1216,7 @@ pre .javascript .function {
   opacity: 0;
 }
 .post-body {
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: Noto Serif, Sanchez, "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 @media (max-width: 767px) {
   .post-body {
@@ -1495,7 +1494,7 @@ pre .javascript .function {
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
   color: #999;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: Noto Serif, Sanchez, "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
   text-align: center;
 }
@@ -1820,7 +1819,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9e291c;
+  background: #046bf1;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2359,140 +2358,6 @@ pre .javascript .function {
 .site-uv::after {
   content: "|";
   padding-left: 10px;
-}
-.algolia-pop-overlay {
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: 2080;
-  background-color: rgba(0,0,0,0.3);
-}
-.algolia-popup {
-  overflow: hidden;
-  padding: 0;
-  display: none;
-  position: fixed;
-  top: 10%;
-  left: 50%;
-  width: 700px;
-  height: 80%;
-  margin-left: -350px;
-  background: #fff;
-  color: #333;
-  z-index: 9999;
-  border-radius: 5px;
-}
-@media (max-width: 767px) {
-  .algolia-popup {
-    padding: 0;
-    top: 0;
-    left: 0;
-    margin: 0;
-    width: 100%;
-    height: 100%;
-    border-radius: 0;
-  }
-}
-.algolia-popup .popup-btn-close {
-  position: absolute;
-  right: 14px;
-  color: #4ebd79;
-  font-size: 14px;
-  font-weight: bold;
-  text-transform: uppercase;
-  cursor: pointer;
-  padding-left: 15px;
-  border-left: 1px solid #eee;
-  top: 10px;
-}
-.algolia-popup .popup-btn-close .fa {
-  color: #999;
-  font-size: 18px;
-}
-.algolia-popup .popup-btn-close:hover .fa {
-  color: #222;
-}
-.algolia-search {
-  padding: 10px 15px 5px;
-  max-height: 50px;
-  border-bottom: 1px solid #ccc;
-  background: #f5f5f5;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
-}
-.algolia-search-input-icon {
-  display: inline-block;
-  width: 20px;
-}
-.algolia-search-input-icon .fa {
-  font-size: 18px;
-}
-.algolia-search-input {
-  display: inline-block;
-  width: calc(90% - 20px);
-}
-.algolia-search-input input {
-  padding: 5px 0;
-  width: 100%;
-  outline: none;
-  border: none;
-  background: transparent;
-}
-.algolia-powered {
-  float: right;
-}
-.algolia-powered img {
-  display: inline-block;
-  height: 18px;
-  vertical-align: middle;
-}
-.algolia-results {
-  position: relative;
-  overflow: auto;
-  padding: 10px 30px;
-  height: calc(100% - 50px);
-}
-.algolia-results hr {
-  margin: 10px 0;
-}
-.algolia-results .highlight {
-  font-style: normal;
-  margin: 0;
-  padding: 0 2px;
-  font-size: inherit;
-  color: #f00;
-}
-.algolia-hits {
-  margin-top: 20px;
-}
-.algolia-hit-item {
-  margin: 15px 0;
-}
-.algolia-hit-item-link {
-  display: block;
-  border-bottom: 1px dashed #ccc;
-  transition-duration: 0.2s;
-  transition-timing-function: ease-in-out;
-  transition-delay: 0s;
-}
-.algolia-pagination .pagination {
-  margin-top: 40px;
-  border-top: none;
-  padding: 0;
-}
-.algolia-pagination .pagination-item {
-  display: inline-block;
-}
-.algolia-pagination .page-number {
-  border-top: none;
-}
-.algolia-pagination .page-number:hover {
-  border-bottom: 1px solid #222;
-}
-.algolia-pagination .disabled-item {
-  visibility: hidden;
 }
 .page-archive .archive-page-counter {
   position: relative;
@@ -3042,7 +2907,6 @@ pre .javascript .function {
 }
 .links-of-author-item {
   margin: 5px 0 0;
-  width: 50%;
 }
 .links-of-author-item a {
   max-width: 216px;
@@ -3092,9 +2956,7 @@ pre .javascript .function {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   margin: 5px 0 0;
-  width: 50%;
   display: inline-block;
-  width: unset;
 }
 .links-of-blogroll-inline .links-of-blogroll-item a {
   max-width: 216px;
