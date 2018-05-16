@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[share-0 | hexo：快速、简洁且高效的博客框架]]></title>
     <url>%2Fshares%2Fshare-0.html</url>
-    <content type="text"><![CDATA[写在前面这个分类是用来分享一些内容的。 内容应该什么都有吧，当然我的视野也就那么宽嘛。 希望自己的分享能有你们不曾知道的东西。 希望自己的分享能有些用处。 About Hexohexo，就像下面的图片上写到的，是一个快速、简洁且高效的博客框架。（中文官网地址：https://hexo.io/zh-cn/） 以markdown格式编写文章，编译后为全静态页面，通过静态网页托管就可以做到现在这个样子了，成本非常低。 文档非常详细，相信只要一点基础就能把最基础的搭配出来，详细的步骤解读我应该接下来就会开始写咯，当然会在coding的分类下发布。 dwadwadaw dwadwdad dwadadwada There is a literal backtick (`) here. This is an example inline link.]]></content>
+    <content type="text"><![CDATA[写在前面这个分类是用来分享一些内容的。 内容应该什么都有吧，当然我的视野也就那么宽嘛。 希望自己的分享能有你们不曾知道的东西。 希望自己的分享能有些用处。 About Hexohexo，就像下面的图片上写到的，是一个快速、简洁且高效的博客框架。 以Markdown格式编写文章，解析后生成全静态页面，生成速度确实也很快， 完成部署后就可以成为现在看到的样子。 对中文支持友好。官网上的文档说明很详细，大部分自定义的需求都能够被满足。 支持许多插件，对一般博客的功能需求都能够满足。 接下来应该会写一篇关于通过 Git Pages &amp; hexo 来搭建出静态博客的步骤解读。 EOF]]></content>
       <categories>
         <category>shares</category>
       </categories>
