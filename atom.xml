@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://susanoo.me/"/>
-  <updated>2018-05-16T15:29:40.850Z</updated>
+  <updated>2018-05-16T15:58:49.485Z</updated>
   <id>http://susanoo.me/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
@@ -16,18 +16,16 @@
     <link href="http://susanoo.me/shares/share-0.html"/>
     <id>http://susanoo.me/shares/share-0.html</id>
     <published>2018-05-16T09:00:55.000Z</published>
-    <updated>2018-05-16T15:29:40.850Z</updated>
+    <updated>2018-05-16T15:58:49.485Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>这个分类是用来分享一些内容的。</p><p>内容应该什么都有吧，当然我的视野也就那么宽嘛。</p><p>希望自己的分享能有你们不曾知道的东西。</p><p>希望自己的分享能有些用处。</p><h2 id="About-Hexo"><a href="#About-Hexo" class="headerlink" title="About Hexo"></a>About Hexo</h2><p><a href="http://example.com/" title="hexo中文官网" target="_blank" rel="noopener">hexo</a>，就像下面的图片上写到的，是一个快速、简洁且高效的博客框架。</p><img src="/shares/share-0/hexo.png" width="800" height="600" title="hexo中文官网"><p>以<strong>Markdown</strong>格式编写文章，解析后生成全<strong>静态页面</strong>，生成<strong>速度</strong>确实也很<strong>快</strong>，</p><p>完成部署后就可以成为现在看到的样子。</p><p>对中文支持友好。官网上的文档说明很详细，大部分自定义的需求都能够被满足。</p><p><strong>支持许多插件</strong>，对一般博客的功能需求都能够满足。</p><p>接下来应该会写一篇关于通过 Git Pages &amp; hexo 来搭建出静态博客的步骤解读。</p><p>EOF</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>这个分类是用来分享一些内容的。</p><p>内容应该什么都有吧，当然我的视野也就那么宽嘛。</p><p>希望自己的分享能有你们不曾知道的东西。</p><p>希望自己的分享能有些用处。</p><a id="more"></a><h2 id="About-Hexo"><a href="#About-Hexo" class="headerlink" title="About Hexo"></a>About Hexo</h2><p><a href="http://example.com/" title="hexo中文官网" target="_blank" rel="noopener">hexo</a>，就像下面的图片上写到的，是一个快速、简洁且高效的博客框架。</p><img src="/shares/share-0/hexo.png" width="800" height="600" title="hexo中文官网"><p>以<strong>Markdown</strong>格式编写文章，解析后生成全<strong>静态页面</strong>，生成<strong>速度</strong>确实也很<strong>快</strong>，</p><p>完成部署后就可以成为现在看到的样子。</p><p>对中文支持友好。官网上的文档说明很详细，大部分自定义的需求都能够被满足。</p><p><strong>支持许多插件</strong>，对一般博客的功能需求都能够满足。</p><p>接下来应该会写一篇关于通过 Git Pages &amp; hexo 来搭建出静态博客的步骤解读。</p><p>EOF</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;p&gt;这个分类是用来分享一些内容的。&lt;/p&gt;
+      &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;p&gt;这个分类是用来分享一些内容的。&lt;/p&gt;
 &lt;p&gt;内容应该什么都有吧，当然我的视野也就那么宽嘛。&lt;/p&gt;
-&lt;p&gt;希望自己的分享能
-      
+&lt;p&gt;希望自己的分享能有你们不曾知道的东西。&lt;/p&gt;
+&lt;p&gt;希望自己的分享能有些用处。&lt;/p&gt;
     
     </summary>
     
