@@ -6,29 +6,27 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://susanoo.me/"/>
-  <updated>2018-05-16T09:15:42.774Z</updated>
+  <updated>2018-05-16T15:03:10.016Z</updated>
   <id>http://susanoo.me/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>share-0</title>
+    <title>share-0 | hexo：快速、简洁且高效的博客框架</title>
     <link href="http://susanoo.me/shares/share-0.html"/>
     <id>http://susanoo.me/shares/share-0.html</id>
     <published>2018-05-16T09:00:55.000Z</published>
-    <updated>2018-05-16T09:15:42.774Z</updated>
+    <updated>2018-05-16T15:03:10.016Z</updated>
     
-    <content type="html"><![CDATA[<p>这个分类当然是用来分享咯。</p><p>内容应该什么都有吧，当然我的视野也就那么宽嘛。</p><p>第一篇当然就是分享这个静态博客框架咯，我能做成什么样就是你现在看到的这样。</p><p>但你们能做成什么样就想象不出来咯~</p><img src="/shares/share-0/hexo.png" title="hexo中文官网"><p>名叫hexo，中文官网地址为<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">https://hexo.io/zh-cn/</a></p><p>以markdown格式编写文章，编译后为全静态页面，通过静态网页托管就可以做到现在这个样子了，成本非常低。</p><p>文档非常详细，相信只要一点基础就能把最基础的搭配出来，详细的步骤解读我应该接下来就会开始写咯，当然会在coding的分类下发布。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>这个分类是用来分享一些内容的。</p><p>内容应该什么都有吧，当然我的视野也就那么宽嘛。</p><p>希望自己的分享能有你们不曾知道的东西。</p><p>希望自己的分享能有些用处。</p><h2 id="About-Hexo"><a href="#About-Hexo" class="headerlink" title="About Hexo"></a>About Hexo</h2><p>hexo，就像下面的图片上写到的，是一个快速、简洁且高效的博客框架。（中文官网地址：<a href="https://hexo.io/zh-cn/）" target="_blank" rel="noopener">https://hexo.io/zh-cn/）</a></p><img src="/shares/share-0/hexo.png" title="hexo中文官网"><p>以markdown格式编写文章，编译后为全静态页面，通过静态网页托管就可以做到现在这个样子了，成本非常低。</p><p>文档非常详细，相信只要一点基础就能把最基础的搭配出来，详细的步骤解读我应该接下来就会开始写咯，当然会在coding的分类下发布。</p><p><em>dwadwadaw</em></p><p><em>dwadwdad</em></p><p><strong>dwadadwada</strong></p><p><code>There is a literal backtick (`) here.</code></p><p>This is <a href="http://example.com/" title="Title" target="_blank" rel="noopener">an example</a> inline link.</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这个分类当然是用来分享咯。&lt;/p&gt;
+        &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;p&gt;这个分类是用来分享一些内容的。&lt;/p&gt;
 &lt;p&gt;内容应该什么都有吧，当然我的视野也就那么宽嘛。&lt;/p&gt;
-&lt;p&gt;第一篇当然就是分享这个静态博客框架咯，我能做成什么样就是你现在看到的这样。&lt;/p&gt;
-&lt;p&gt;但你们能做成什么样就想象不出来咯~&lt;/p&gt;
-&lt;img src=&quot;/shares/
+&lt;p&gt;希望自己的分享能
       
     
     </summary>
