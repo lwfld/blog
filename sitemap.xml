@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://susanoo.me/coding/About-Programmer/</loc>
+    <loc>http://susanoo.me/thoughts/foreword.html</loc>
     
-    <lastmod>2018-05-15T17:40:11.352Z</lastmod>
+    <lastmod>2018-05-16T09:17:02.805Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://susanoo.me/uncategorized/welcome/</loc>
+    <loc>http://susanoo.me/coding/README.html</loc>
     
-    <lastmod>2018-05-14T04:37:00.499Z</lastmod>
+    <lastmod>2018-05-16T09:16:13.453Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://susanoo.me/shares/share-0.html</loc>
+    
+    <lastmod>2018-05-16T09:15:42.774Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://susanoo.me/test/mdTest.html</loc>
+    
+    <lastmod>2018-05-16T07:48:17.624Z</lastmod>
     
   </url>
   

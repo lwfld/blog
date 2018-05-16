@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next gemini use-motion" lang="zh-Hans">
+<html class="theme-next gemini use-motion" lang="">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -129,7 +129,7 @@
 <meta property="og:url" content="http://susanoo.me/archives/2018/index.html">
 <meta property="og:site_name" content="Susanoo&#39;s Blog">
 <meta property="og:description" content="nothing to say.">
-<meta property="og:locale" content="zh-Hans">
+<meta property="og:locale" content="default">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Susanoo&#39;s Blog">
 <meta name="twitter:description" content="nothing to say.">
@@ -142,13 +142,13 @@
     root: '/',
     scheme: 'Gemini',
     version: '5.1.4',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":true,"scrollpercent":"flase","onmobile":false},
+    sidebar: {"position":"left","display":"post","offset":55,"b2t":true,"scrollpercent":true,"onmobile":false},
     fancybox: true,
     tabs: false,
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     duoshuo: {
       userId: '0',
-      author: '博主'
+      author: 'Author'
     },
     algolia: {
       applicationID: '',
@@ -168,7 +168,7 @@
 
 
 
-  <title>归档 | Susanoo's Blog</title>
+  <title>Archive | Susanoo's Blog</title>
   
 
 
@@ -180,7 +180,7 @@
 
 </head>
 
-<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+<body itemscope itemtype="http://schema.org/WebPage" lang="default">
 
   
   
@@ -223,18 +223,32 @@
     <ul id="menu" class="menu">
       
         
-        <li class="menu-item menu-item-home">
-          <a href="/" rel="section">
+        <li class="menu-item menu-item-thoughts">
+          <a href="/categories/thoughts" rel="section">
             
-            首页
+              <i class="menu-item-icon fa fa-fw fa-power-off"></i> <br />
+            
+            Thoughts
           </a>
         </li>
       
         
-        <li class="menu-item menu-item-coding">
+        <li class="menu-item menu-item-codes">
           <a href="/categories/coding/" rel="section">
             
-            Coding
+              <i class="menu-item-icon fa fa-fw fa-terminal"></i> <br />
+            
+            Codes
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-shares">
+          <a href="/categories/shares/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-star"></i> <br />
+            
+            Shares
           </a>
         </li>
       
@@ -242,7 +256,9 @@
         <li class="menu-item menu-item-archives">
           <a href="/archives/" rel="section">
             
-            归档
+              <i class="menu-item-icon fa fa-fw fa-bars"></i> <br />
+            
+            Archives
           </a>
         </li>
       
@@ -253,7 +269,9 @@
             <a href="javascript:;" class="popup-trigger">
           
             
-            搜索
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />
+            
+            Search
           </a>
         </li>
       
@@ -273,7 +291,7 @@
     </span>
     <div class="local-search-input-wrapper">
       <input autocomplete="off"
-             placeholder="搜索..." spellcheck="false"
+             placeholder="Searching..." spellcheck="false"
              type="text" id="local-search-input">
     </div>
   </div>
@@ -310,7 +328,7 @@
         
           
         
-        嗯..! 目前共计 2 篇日志。 继续努力。
+        Um..! 4 posts in total. Keep on posting.
       </span>
 
       
@@ -334,9 +352,9 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/coding/About-Programmer/" itemprop="url">
+            <a class="post-title-link" href="/shares/share-0.html" itemprop="url">
               
-                <span itemprop="name">About</span>
+                <span itemprop="name">share-0</span>
               
             </a>
         
@@ -344,9 +362,9 @@
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
-              datetime="2018-05-14T10:21:06+08:00"
-              content="2018-05-14" >
-          05-14
+              datetime="2018-05-16T17:00:55+08:00"
+              content="2018-05-16" >
+          05-16
         </time>
       </div>
 
@@ -371,9 +389,9 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/uncategorized/welcome/" itemprop="url">
+            <a class="post-title-link" href="/thoughts/foreword.html" itemprop="url">
               
-                <span itemprop="name">欢迎</span>
+                <span itemprop="name">序</span>
               
             </a>
         
@@ -381,9 +399,83 @@
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
-              datetime="2018-05-14T10:21:06+08:00"
-              content="2018-05-14" >
-          05-14
+              datetime="2018-05-16T16:55:21+08:00"
+              content="2018-05-16" >
+          05-16
+        </time>
+      </div>
+
+    </header>
+  </article>
+
+
+
+      
+
+        
+        
+        
+
+        
+        
+
+        
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+
+      <h2 class="post-title">
+        
+            <a class="post-title-link" href="/coding/README.html" itemprop="url">
+              
+                <span itemprop="name">README</span>
+              
+            </a>
+        
+      </h2>
+
+      <div class="post-meta">
+        <time class="post-time" itemprop="dateCreated"
+              datetime="2018-05-16T16:47:58+08:00"
+              content="2018-05-16" >
+          05-16
+        </time>
+      </div>
+
+    </header>
+  </article>
+
+
+
+      
+
+        
+        
+        
+
+        
+        
+
+        
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+
+      <h2 class="post-title">
+        
+            <a class="post-title-link" href="/test/mdTest.html" itemprop="url">
+              
+                <span itemprop="name">mdTest</span>
+              
+            </a>
+        
+      </h2>
+
+      <div class="post-meta">
+        <time class="post-time" itemprop="dateCreated"
+              datetime="2018-05-16T13:08:39+08:00"
+              content="2018-05-16" >
+          05-16
         </time>
       </div>
 
@@ -445,8 +537,8 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">2</span>
-                  <span class="site-state-item-name">日志</span>
+                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-name">posts</span>
                 </a>
               </div>
             
@@ -456,8 +548,8 @@
               
               <div class="site-state-item site-state-categories">
                 
-                  <span class="site-state-item-count">1</span>
-                  <span class="site-state-item-name">分类</span>
+                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-name">categories</span>
                 
               </div>
             
@@ -514,15 +606,15 @@
       <div class="footer-inner">
         <div class="copyright">&copy; <span itemprop="copyrightYear">2018</span>
   <span class="with-love">
-    <i class="fa fa-gift"></i>
+    <i class="fa fa-thumbs-o-up"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder"></span>
+  <span class="author" itemprop="copyrightHolder">Susanoo</span>
 
   
 </div>
 
 
-  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+  <div class="powered-by">Powered by <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a></div>
 
 
 
@@ -530,7 +622,7 @@
 
 
 
-  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Gemini</a> v5.1.4</div>
+  <div class="theme-info">Theme &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Gemini</a></div>
 
 
 
