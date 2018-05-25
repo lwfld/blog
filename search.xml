@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title><![CDATA[share-1 | Launchy | 快速启动工具]]></title>
-    <url>%2Fshares%2Fshares%2Fshare-1%2Fshare-1.html</url>
+    <url>%2Fshares%2FSHARES%2Fshare-1.html</url>
     <content type="text"><![CDATA[About LaunchyLaunchy是一个免费，开源的跨平台快速启动工具，主要是通过快捷键方式叫出一个搜索框，在里面输入你想要的或者命令，就可以达到快速启动的效果，可以完全通过键盘达到高效并快速启动软件的目的，同样也可以搜索本地文件，快速打开网页，以某种指令启动某个程序等等，可以到说明文档中看到支持的功能，总体给我的感觉就是增强的 Windows+R 和 Cortana 的合体版本，如果有这方面需求不妨一试。 Download下载的话在Launchy的官网就可以找到，提供各种系统的版本，如下图：]]></content>
       <categories>
         <category>shares</category>
@@ -18,15 +18,15 @@
   </entry>
   <entry>
     <title><![CDATA[shadowsocks使用指南]]></title>
-    <url>%2Ftechs%2Fdetails%2Fss-intro%2Fss-intro.html</url>
+    <url>%2Ftools%2FTOOLS%2Fss-intro.html</url>
     <content type="text"><![CDATA[写在前面外面的世界也不总是很精彩，可总有人想去看看，因为毕竟Great Firewall不让我们看嘛。 不管是怎样的需求，要想突破这道墙，shadowsocks就是一个极其方便的办法。但也许对很多人来说也并不那么方便，现在还是有很多VPN服务供应商嘛，用免费的也还大有人在，安全性肯定没有保证，相对保险的方法还是自己买个国外或者香港那边的服务器比较好，这篇指南就是讲如何搭建自己的shadowsocks服务器。 关于购买服务器这个我不做多的推荐了，不是本文的重心。 百度或者知乎关键字：vps 列举一些我比较熟悉的vps提供商：vultr, digitalocean, linode, bandwagon…（同样可以搜索以上提到的提供商，可能还会找到现有的优惠信息）。 ssh软件连接至你购买的vpsxshell, putty 安装，配置与启用安装在终端中输入如下指令： Debian / Ubuntu: 12apt-get install python-pippip install shadowsocks CentOS: 12yum install python-setuptools &amp;&amp; easy_install pippip install shadowsocks 新建配置文件1vim /etc/shadowsocks.json 在vim文本编辑界面，敲下键盘上的 i 或者 Insert 键进入Insert模式， 复制如下字符，再输入 Shift + Insert 粘贴到这个文件里面。 12345678910&#123; &quot;server&quot;:&quot;my_server_ip&quot;, &quot;server_port&quot;:8388, &quot;local_address&quot;: &quot;127.0.0.1&quot;, &quot;local_port&quot;:1080, &quot;password&quot;:&quot;mypassword&quot;, &quot;timeout&quot;:300, &quot;method&quot;:&quot;aes-256-cfb&quot;, &quot;fast_open&quot;: false&#125; 启动根据配置文件后台启动： 12ssserver -c /etc/shadowsocks.json -d start //启动ss服务ssserver -c /etc/shadowsocks.json -d stop //停止]]></content>
       <categories>
-        <category>techs</category>
+        <category>tools</category>
       </categories>
   </entry>
   <entry>
     <title><![CDATA[share-0 | Hexo | 快速、简洁且高效的博客框架]]></title>
-    <url>%2Fshares%2Fshares%2Fshare-0%2Fshare-0.html</url>
+    <url>%2Fshares%2FSHARES%2Fshare-0.html</url>
     <content type="text"><![CDATA[写在前面这个分类是用来分享一些内容的。 内容应该什么都有吧，当然我的视野也就那么宽嘛。 希望自己的分享能有你们不曾知道的东西。 希望自己的分享能有些用处。 About Hexohexo，就像下面的图片上写到的，是一个快速、简洁且高效的博客框架。 以Markdown格式编写文章，解析后生成全静态页面，生成速度确实也很快， 完成部署后就可以成为现在看到的样子。 对中文支持友好。官网上的文档说明很详细，大部分自定义的需求都能够被满足。 支持许多插件，对一般博客的功能需求都能够满足。 接下来应该会写一篇关于通过 Git Pages &amp; hexo 来搭建出静态博客的步骤解读。 EOF]]></content>
       <categories>
         <category>shares</category>
@@ -42,15 +42,18 @@
   </entry>
   <entry>
     <title><![CDATA[README]]></title>
-    <url>%2Ftechs%2Fdetails%2FREADME%2FREADME.html</url>
+    <url>%2Ftools%2FTOOLS%2FREADME.html</url>
     <content type="text"><![CDATA[到今天总算是布置得差不多了，这个博客总算是能上线了吧。 在这个分类里面，我大概会记录一些新学习的技术/工具的一些基本知识，权当作自己的笔记，方便再次需要的时候不用再点开好多个标签页从头学习一遍。当然也挺希望自己的一些小经验有机会帮到有些人吧，当然欢迎交流。]]></content>
       <categories>
-        <category>techs</category>
+        <category>tools</category>
       </categories>
   </entry>
   <entry>
     <title><![CDATA[mdTest]]></title>
-    <url>%2Funsorted%2Fdetails%2FmdTest%2FmdTest.html</url>
+    <url>%2Ftools%2FTOOLS%2FmdTest.html</url>
     <content type="text"><![CDATA[This is a h1 title 标题This is a h2 title 标题This is a h3 title 标题This is a h4 title 标题This is a h5 title 标题This is a h6 title 标题body test here. It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i. 正文测试。 这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我； Codeblock test here. 普通的代码块 1alert(&apos;Hello World!&apos;); 指定语言(Python) 12345def testfunc():​ print('welcome') md代码块 1alert(&apos;Hello World&apos;) 12def testfunc(): print('welcome') 图片引用 with blockquote not with blockquote body test here. It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i. 正文测试。 这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我； body test here. It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i. 正文测试。 这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我； body test here. It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i. 正文测试。 这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我； body test here. It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i. 正文测试。 这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我； EOF]]></content>
+      <categories>
+        <category>tools</category>
+      </categories>
   </entry>
 </search>
