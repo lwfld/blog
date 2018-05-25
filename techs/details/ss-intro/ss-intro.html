@@ -123,16 +123,17 @@
 
 
 
-<meta name="description" content="nothing to say.">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Susanoo&#39;s Blog">
-<meta property="og:url" content="http://susanoo.me/index.html">
+<meta name="description" content="写在前面外面的世界也不总是很精彩，可总有人想去看看，因为毕竟Great Firewall不让我们看嘛。 不管是怎样的需求，要想突破这道墙，shadowsocks就是一个极其方便的办法。但也许对很多人来说也并不那么方便，现在还是有很多VPN服务供应商嘛，用免费的也还大有人在，安全性肯定没有保证，相对保险的方法还是自己买个国外或者香港那边的服务器比较好，这篇指南就是讲如何搭建自己的shadowsock">
+<meta property="og:type" content="article">
+<meta property="og:title" content="shadowsocks使用指南">
+<meta property="og:url" content="http://susanoo.me/techs/details/ss-intro/ss-intro.html">
 <meta property="og:site_name" content="Susanoo&#39;s Blog">
-<meta property="og:description" content="nothing to say.">
+<meta property="og:description" content="写在前面外面的世界也不总是很精彩，可总有人想去看看，因为毕竟Great Firewall不让我们看嘛。 不管是怎样的需求，要想突破这道墙，shadowsocks就是一个极其方便的办法。但也许对很多人来说也并不那么方便，现在还是有很多VPN服务供应商嘛，用免费的也还大有人在，安全性肯定没有保证，相对保险的方法还是自己买个国外或者香港那边的服务器比较好，这篇指南就是讲如何搭建自己的shadowsock">
 <meta property="og:locale" content="default">
+<meta property="og:updated_time" content="2018-05-19T14:21:18.857Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Susanoo&#39;s Blog">
-<meta name="twitter:description" content="nothing to say.">
+<meta name="twitter:title" content="shadowsocks使用指南">
+<meta name="twitter:description" content="写在前面外面的世界也不总是很精彩，可总有人想去看看，因为毕竟Great Firewall不让我们看嘛。 不管是怎样的需求，要想突破这道墙，shadowsocks就是一个极其方便的办法。但也许对很多人来说也并不那么方便，现在还是有很多VPN服务供应商嘛，用免费的也还大有人在，安全性肯定没有保证，相对保险的方法还是自己买个国外或者香港那边的服务器比较好，这篇指南就是讲如何搭建自己的shadowsock">
 
 
 
@@ -162,13 +163,13 @@
 
 
 
-  <link rel="canonical" href="http://susanoo.me/"/>
+  <link rel="canonical" href="http://susanoo.me/techs/details/ss-intro/ss-intro.html"/>
 
 
 
 
 
-  <title></title>
+  <title>shadowsocks使用指南 | Susanoo's Blog</title>
   
 
 
@@ -187,7 +188,7 @@
     
   
 
-  <div class="container sidebar-position-left ">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -314,15 +315,369 @@
         <div class="content-wrap">
           <div id="content" class="content">
             
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://susanoo.me/techs/details/ss-intro/ss-intro.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Susanoo's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">shadowsocks使用指南</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-05-18T13:05:34+08:00">
+                2018-05-18
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/cat/techs/" itemprop="url" rel="index">
+                    <span itemprop="name">techs</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/techs/details/ss-intro/ss-intro.html#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count"
+                        data-disqus-identifier="techs/details/ss-intro/ss-intro.html" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+            <div class="post-wordcount">
+              
+                
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-file-word-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Words count in article&#58;</span>
+                
+                <span title="Words count in article">
+                  413
+                </span>
+              
+
+              
+                <span class="post-meta-divider">|</span>
+              
+
+              
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-clock-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Reading time &asymp;</span>
+                
+                <span title="Reading time">
+                  2
+                </span>
+              
+            </div>
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>外面的世界也不总是很精彩，可总有人想去看看，因为毕竟Great Firewall不让我们看嘛。</p>
+<p>不管是怎样的需求，要想突破这道墙，shadowsocks就是一个极其方便的办法。但也许对很多人来说也并不那么方便，现在还是有很多VPN服务供应商嘛，用免费的也还大有人在，安全性肯定没有保证，相对保险的方法还是自己买个国外或者香港那边的服务器比较好，这篇指南就是讲如何搭建自己的shadowsocks服务器。</p>
+<a id="more"></a>
+<h3 id="关于购买服务器"><a href="#关于购买服务器" class="headerlink" title="关于购买服务器"></a>关于购买服务器</h3><p>这个我不做多的推荐了，不是本文的重心。</p>
+<p>百度或者知乎关键字：vps</p>
+<p>列举一些我比较熟悉的vps提供商：<a href="https://www.vultr.com/" target="_blank" rel="noopener">vultr</a>, <a href="https://www.digitalocean.com/" target="_blank" rel="noopener">digitalocean</a>, <a href="https://www.linode.com/" target="_blank" rel="noopener">linode</a>, <a href="https://www.bwh1.net/" target="_blank" rel="noopener">bandwagon</a>…（同样可以搜索以上提到的提供商，可能还会找到现有的优惠信息）。</p>
+<h2 id="ssh软件连接至你购买的vps"><a href="#ssh软件连接至你购买的vps" class="headerlink" title="ssh软件连接至你购买的vps"></a>ssh软件连接至你购买的vps</h2><p>xshell, putty</p>
+<h2 id="安装，配置与启用"><a href="#安装，配置与启用" class="headerlink" title="安装，配置与启用"></a>安装，配置与启用</h2><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>在终端中输入如下指令：</p>
+<p>Debian / Ubuntu: </p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">apt-get install python-pip</span><br><span class="line">pip install shadowsocks</span><br></pre></td></tr></table></figure>
+<p>CentOS: </p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">yum install python-setuptools &amp;&amp; easy_install pip</span><br><span class="line">pip install shadowsocks</span><br></pre></td></tr></table></figure>
+<h3 id="新建配置文件"><a href="#新建配置文件" class="headerlink" title="新建配置文件"></a>新建配置文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /etc/shadowsocks.json</span><br></pre></td></tr></table></figure>
+<p>在vim文本编辑界面，敲下键盘上的 <code>i</code> 或者 <code>Insert</code> 键进入Insert模式， 复制如下字符，再输入 <code>Shift + Insert</code> 粘贴到这个文件里面。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;server&quot;:&quot;my_server_ip&quot;,</span><br><span class="line">    &quot;server_port&quot;:8388,</span><br><span class="line">    &quot;local_address&quot;: &quot;127.0.0.1&quot;,</span><br><span class="line">    &quot;local_port&quot;:1080,</span><br><span class="line">    &quot;password&quot;:&quot;mypassword&quot;,</span><br><span class="line">    &quot;timeout&quot;:300,</span><br><span class="line">    &quot;method&quot;:&quot;aes-256-cfb&quot;,</span><br><span class="line">    &quot;fast_open&quot;: false</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="启动"><a href="#启动" class="headerlink" title="启动"></a>启动</h3><p>根据配置文件后台启动：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">ssserver -c /etc/shadowsocks.json -d start		//启动ss服务</span><br><span class="line">ssserver -c /etc/shadowsocks.json -d stop		//停止</span><br></pre></td></tr></table></figure>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/shares/shares/share-0/share-0.html" rel="next" title="share-0 | Hexo | 快速、简洁且高效的博客框架">
+                <i class="fa fa-chevron-left"></i> share-0 | Hexo | 快速、简洁且高效的博客框架
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/thoughts/THOUGHTS/thoughts0519.html" rel="prev" title="壹">
+                壹 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
           </div>
           
 
 
           
 
+  
+    <div class="comments" id="comments">
+      <div id="disqus_thread">
+        <noscript>
+          Please enable JavaScript to view the
+          <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+        </noscript>
+      </div>
+    </div>
+
+  
+
+
+
         </div>
         
           
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            Overview
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <p class="site-author-name" itemprop="name"></p>
+              <p class="site-description motion-element" itemprop="description">nothing to say.</p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/arch/">
+              
+                  <span class="site-state-item-count">7</span>
+                  <span class="site-state-item-name">posts</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                
+                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-name">categories</span>
+                
+              </div>
+            
+
+            
+
+          </nav>
+
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/tabsusanoo" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-github"></i></a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#写在前面"><span class="nav-number">1.</span> <span class="nav-text">写在前面</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#关于购买服务器"><span class="nav-number">1.1.</span> <span class="nav-text">关于购买服务器</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#ssh软件连接至你购买的vps"><span class="nav-number">2.</span> <span class="nav-text">ssh软件连接至你购买的vps</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#安装，配置与启用"><span class="nav-number">3.</span> <span class="nav-text">安装，配置与启用</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#安装"><span class="nav-number">3.1.</span> <span class="nav-text">安装</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#新建配置文件"><span class="nav-number">3.2.</span> <span class="nav-text">新建配置文件</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#启动"><span class="nav-number">3.3.</span> <span class="nav-text">启动</span></a></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+        <div class="back-to-top">
+          <i class="fa fa-arrow-up"></i>
+          
+            <span id="scrollpercent"><span>0</span>%</span>
+          
+        </div>
+      
+
+    </div>
+  </aside>
+
+
         
       </div>
     </main>
@@ -450,6 +805,10 @@
 
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
 
   
 
@@ -467,6 +826,18 @@
       <script id="dsq-count-scr" src="https://susanoome.disqus.com/count.js" async></script>
     
 
+    
+      <script type="text/javascript">
+        var disqus_config = function () {
+          this.page.url = 'http://susanoo.me/techs/details/ss-intro/ss-intro.html';
+          this.page.identifier = 'techs/details/ss-intro/ss-intro.html';
+          this.page.title = 'shadowsocks使用指南';
+        };
+        var d = document, s = d.createElement('script');
+        s.src = 'https://susanoome.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', '' + +new Date());
+        (d.head || d.body).appendChild(s);
+      </script>
     
 
   

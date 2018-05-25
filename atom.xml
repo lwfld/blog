@@ -6,19 +6,84 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://susanoo.me/"/>
-  <updated>2018-05-16T16:02:59.801Z</updated>
+  <updated>2018-05-25T12:03:28.555Z</updated>
   <id>http://susanoo.me/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>share-0 | hexo：快速、简洁且高效的博客框架</title>
-    <link href="http://susanoo.me/shares/share-0.html"/>
-    <id>http://susanoo.me/shares/share-0.html</id>
-    <published>2018-05-16T09:00:55.000Z</published>
-    <updated>2018-05-16T16:02:59.801Z</updated>
+    <title>share-1 | Launchy | 快速启动工具</title>
+    <link href="http://susanoo.me/shares/shares/share-1/share-1.html"/>
+    <id>http://susanoo.me/shares/shares/share-1/share-1.html</id>
+    <published>2018-05-25T08:45:11.000Z</published>
+    <updated>2018-05-25T12:03:28.555Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>这个分类是用来分享一些内容的。</p><p>内容应该什么都有吧，当然我的视野也就那么宽嘛。</p><p>希望自己的分享能有你们不曾知道的东西。</p><p>希望自己的分享能有些用处。</p><a id="more"></a><h2 id="About-Hexo"><a href="#About-Hexo" class="headerlink" title="About Hexo"></a>About Hexo</h2><p><a href="http://example.com/" title="hexo中文官网" target="_blank" rel="noopener">hexo</a>，就像下面的图片上写到的，是一个快速、简洁且高效的博客框架。</p><img src="/shares/share-0/hexo.png" width="800" height="600" title="hexo中文官网"><p>以<strong>Markdown</strong>格式编写文章，解析后生成全<strong>静态页面</strong>，生成<strong>速度</strong>确实也很<strong>快</strong>，</p><p>完成部署后就可以成为现在看到的样子。</p><p>对中文支持友好。官网上的文档说明很详细，大部分自定义的需求都能够被满足。</p><p><strong>支持许多插件</strong>，对一般博客的功能需求都能够满足。</p><p>接下来应该会写一篇关于通过 Git Pages &amp; hexo 来搭建出静态博客的步骤解读。</p><p>EOF</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="About-Launchy"><a href="#About-Launchy" class="headerlink" title="About Launchy"></a>About Launchy</h2><p>Launchy是一个免费，开源的跨平台快速启动工具，主要是通过快捷键方式叫出一个搜索框，在里面输入你想要的或者命令，就可以达到快速启动的效果，可以完全通过键盘达到高效并快速启动软件的目的，同样也可以搜索本地文件，快速打开网页，以某种指令启动某个程序等等，可以到说明文档中看到支持的功能，总体给我的感觉就是增强的 <code>Windows+R</code> 和 <code>Cortana</code> 的合体版本，如果有这方面需求不妨一试。<br><a id="more"></a></p><h2 id="Download"><a href="#Download" class="headerlink" title="Download"></a>Download</h2><p>下载的话在<a href="http://www.launchy.net/index.php" target="_blank" rel="noopener">Launchy</a>的官网就可以找到，提供各种系统的版本，如下图：<br><img src="/shares/share-1/download_page.png" alt="download_page"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;About-Launchy&quot;&gt;&lt;a href=&quot;#About-Launchy&quot; class=&quot;headerlink&quot; title=&quot;About Launchy&quot;&gt;&lt;/a&gt;About Launchy&lt;/h2&gt;&lt;p&gt;Launchy是一个免费，开源的跨平台快速启动工具，主要是通过快捷键方式叫出一个搜索框，在里面输入你想要的或者命令，就可以达到快速启动的效果，可以完全通过键盘达到高效并快速启动软件的目的，同样也可以搜索本地文件，快速打开网页，以某种指令启动某个程序等等，可以到说明文档中看到支持的功能，总体给我的感觉就是增强的 &lt;code&gt;Windows+R&lt;/code&gt; 和 &lt;code&gt;Cortana&lt;/code&gt; 的合体版本，如果有这方面需求不妨一试。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="shares" scheme="http://susanoo.me/cat/shares/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>壹</title>
+    <link href="http://susanoo.me/thoughts/THOUGHTS/thoughts0519.html"/>
+    <id>http://susanoo.me/thoughts/THOUGHTS/thoughts0519.html</id>
+    <published>2018-05-19T13:02:53.000Z</published>
+    <updated>2018-05-19T14:20:11.603Z</updated>
+    
+    <content type="html"><![CDATA[<p>前几天美剧看得太烦，想看的没更新，自己又找来找去也没什么感兴趣的，看到李狗嗨的简介决定试看一集，没想到这一看，就让自己把两部都给补完了，自己是真的觉得，日剧啊，还真是喜欢讲些人生哲理呀。</p><p>我这人以前算是活泼开朗，现在大概也是，只是现在讨厌维持交际了，毕竟现在只要不发动态不发朋友圈，整个人大体上就可以消失了，要是连课也不去上，估计真的就可以跟周围大多数的人丧失唯一的交集了。也许现在自己的思想是有些问题，不过我还没遇到转变这些看法的契机。</p><p>一个人能跟另一个人产生联系，我绝对觉得这是一种概率不高的事件，用这样的词来表述，就避免了感情色彩，因为毕竟真的是有好有坏。总会有人中彩票，总会有人被流弹打到；你费尽力气想认识的女神，恰好只是她的同桌。你大发慈悲扶起的一个老太太，恰好只是想碰你的瓷。没有什么被选召的孩子，我们每个人在自己的人生轨迹里都是被选召的那个孩子，只不过你想走我的路，我想走他的路。</p><p><em>甚至有时候，我还想让你走我的路，还不让你走我走过的弯路。</em></p><p>第一季的黛和第二季的晴树，让我真正体会到了这一点。辛苦学习一路走来都是为了自己坚守的信念，当律师也是为了正义，为了幸福。看了那么多集自己终于有了点体会，<strong>你凭什么觉得你坚信的正义和幸福，就是真正的正义和幸福？</strong>接受这样的信念之后，之前的信念肯定会崩塌吧。都觉得古美门是恶人的代表，也确实是，不过他更代表了他坚持的东西，只坚信自己想达成的目标，就是赢。无关要代理的人是对是错，他只为赢就对了，法律不就是这样的吗？法律也不是为了维护善恶对错的吧？法律只是个判断条件，它会告诉你如果是a怎么做如果是b怎么做，它绝不会让a或b带上主观的感情色彩。我们不是神，我们没资格说什么是善，什么是恶，我们只知道什么时候自己肚子饿了。</p><p>如人饮水，冷暖自知。</p><p>此篇完。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前几天美剧看得太烦，想看的没更新，自己又找来找去也没什么感兴趣的，看到李狗嗨的简介决定试看一集，没想到这一看，就让自己把两部都给补完了，自己是真的觉得，日剧啊，还真是喜欢讲些人生哲理呀。&lt;/p&gt;
+&lt;p&gt;我这人以前算是活泼开朗，现在大概也是，只是现在讨厌维持交际了，毕竟现在只
+      
+    
+    </summary>
+    
+      <category term="thoughts" scheme="http://susanoo.me/cat/thoughts/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>shadowsocks使用指南</title>
+    <link href="http://susanoo.me/techs/details/ss-intro/ss-intro.html"/>
+    <id>http://susanoo.me/techs/details/ss-intro/ss-intro.html</id>
+    <published>2018-05-18T05:05:34.000Z</published>
+    <updated>2018-05-19T14:21:18.857Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>外面的世界也不总是很精彩，可总有人想去看看，因为毕竟Great Firewall不让我们看嘛。</p><p>不管是怎样的需求，要想突破这道墙，shadowsocks就是一个极其方便的办法。但也许对很多人来说也并不那么方便，现在还是有很多VPN服务供应商嘛，用免费的也还大有人在，安全性肯定没有保证，相对保险的方法还是自己买个国外或者香港那边的服务器比较好，这篇指南就是讲如何搭建自己的shadowsocks服务器。</p><a id="more"></a><h3 id="关于购买服务器"><a href="#关于购买服务器" class="headerlink" title="关于购买服务器"></a>关于购买服务器</h3><p>这个我不做多的推荐了，不是本文的重心。</p><p>百度或者知乎关键字：vps</p><p>列举一些我比较熟悉的vps提供商：<a href="https://www.vultr.com/" target="_blank" rel="noopener">vultr</a>, <a href="https://www.digitalocean.com/" target="_blank" rel="noopener">digitalocean</a>, <a href="https://www.linode.com/" target="_blank" rel="noopener">linode</a>, <a href="https://www.bwh1.net/" target="_blank" rel="noopener">bandwagon</a>…（同样可以搜索以上提到的提供商，可能还会找到现有的优惠信息）。</p><h2 id="ssh软件连接至你购买的vps"><a href="#ssh软件连接至你购买的vps" class="headerlink" title="ssh软件连接至你购买的vps"></a>ssh软件连接至你购买的vps</h2><p>xshell, putty</p><h2 id="安装，配置与启用"><a href="#安装，配置与启用" class="headerlink" title="安装，配置与启用"></a>安装，配置与启用</h2><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>在终端中输入如下指令：</p><p>Debian / Ubuntu: </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">apt-get install python-pip</span><br><span class="line">pip install shadowsocks</span><br></pre></td></tr></table></figure><p>CentOS: </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">yum install python-setuptools &amp;&amp; easy_install pip</span><br><span class="line">pip install shadowsocks</span><br></pre></td></tr></table></figure><h3 id="新建配置文件"><a href="#新建配置文件" class="headerlink" title="新建配置文件"></a>新建配置文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /etc/shadowsocks.json</span><br></pre></td></tr></table></figure><p>在vim文本编辑界面，敲下键盘上的 <code>i</code> 或者 <code>Insert</code> 键进入Insert模式， 复制如下字符，再输入 <code>Shift + Insert</code> 粘贴到这个文件里面。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;server&quot;:&quot;my_server_ip&quot;,</span><br><span class="line">    &quot;server_port&quot;:8388,</span><br><span class="line">    &quot;local_address&quot;: &quot;127.0.0.1&quot;,</span><br><span class="line">    &quot;local_port&quot;:1080,</span><br><span class="line">    &quot;password&quot;:&quot;mypassword&quot;,</span><br><span class="line">    &quot;timeout&quot;:300,</span><br><span class="line">    &quot;method&quot;:&quot;aes-256-cfb&quot;,</span><br><span class="line">    &quot;fast_open&quot;: false</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="启动"><a href="#启动" class="headerlink" title="启动"></a>启动</h3><p>根据配置文件后台启动：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">ssserver -c /etc/shadowsocks.json -d start//启动ss服务</span><br><span class="line">ssserver -c /etc/shadowsocks.json -d stop//停止</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;p&gt;外面的世界也不总是很精彩，可总有人想去看看，因为毕竟Great Firewall不让我们看嘛。&lt;/p&gt;
+&lt;p&gt;不管是怎样的需求，要想突破这道墙，shadowsocks就是一个极其方便的办法。但也许对很多人来说也并不那么方便，现在还是有很多VPN服务供应商嘛，用免费的也还大有人在，安全性肯定没有保证，相对保险的方法还是自己买个国外或者香港那边的服务器比较好，这篇指南就是讲如何搭建自己的shadowsocks服务器。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="techs" scheme="http://susanoo.me/cat/techs/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>share-0 | Hexo | 快速、简洁且高效的博客框架</title>
+    <link href="http://susanoo.me/shares/shares/share-0/share-0.html"/>
+    <id>http://susanoo.me/shares/shares/share-0/share-0.html</id>
+    <published>2018-05-16T09:00:55.000Z</published>
+    <updated>2018-05-25T11:55:19.116Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>这个分类是用来分享一些内容的。</p><p>内容应该什么都有吧，当然我的视野也就那么宽嘛。</p><p>希望自己的分享能有你们不曾知道的东西。</p><p>希望自己的分享能有些用处。</p><a id="more"></a><h2 id="About-Hexo"><a href="#About-Hexo" class="headerlink" title="About Hexo"></a>About Hexo</h2><p><a href="http://example.com/" title="hexo中文官网" target="_blank" rel="noopener">hexo</a>，就像下面的图片上写到的，是一个快速、简洁且高效的博客框架。</p><p>以<strong>Markdown</strong>格式编写文章，解析后生成全<strong>静态页面</strong>，生成<strong>速度</strong>确实也很<strong>快</strong>，</p><p>完成部署后就可以成为现在看到的样子。</p><p>对中文支持友好。官网上的文档说明很详细，大部分自定义的需求都能够被满足。</p><p><strong>支持许多插件</strong>，对一般博客的功能需求都能够满足。</p><p>接下来应该会写一篇关于通过 Git Pages &amp; hexo 来搭建出静态博客的步骤解读。</p><p>EOF</p>]]></content>
     
     <summary type="html">
     
@@ -29,17 +94,17 @@
     
     </summary>
     
-      <category term="shares" scheme="http://susanoo.me/categories/shares/"/>
+      <category term="shares" scheme="http://susanoo.me/cat/shares/"/>
     
     
   </entry>
   
   <entry>
     <title>序</title>
-    <link href="http://susanoo.me/thoughts/foreword.html"/>
-    <id>http://susanoo.me/thoughts/foreword.html</id>
+    <link href="http://susanoo.me/thoughts/THOUGHTS/foreword.html"/>
+    <id>http://susanoo.me/thoughts/THOUGHTS/foreword.html</id>
     <published>2018-05-16T08:55:21.000Z</published>
-    <updated>2018-05-16T09:17:02.805Z</updated>
+    <updated>2018-05-19T14:29:00.180Z</updated>
     
     <content type="html"><![CDATA[<p>这个分类里面，就是拿来记录自己有时候想的一些有的没的咯。</p><p>关于想法，就当看个热闹也罢，看个笑话也罢，能在你脑子里有过痕迹就不枉自己码下的字了。</p><p>不定期更新。</p>]]></content>
     
@@ -55,17 +120,17 @@
     
     </summary>
     
-      <category term="thoughts" scheme="http://susanoo.me/categories/thoughts/"/>
+      <category term="thoughts" scheme="http://susanoo.me/cat/thoughts/"/>
     
     
   </entry>
   
   <entry>
     <title>README</title>
-    <link href="http://susanoo.me/coding/README.html"/>
-    <id>http://susanoo.me/coding/README.html</id>
+    <link href="http://susanoo.me/techs/details/README/README.html"/>
+    <id>http://susanoo.me/techs/details/README/README.html</id>
     <published>2018-05-16T08:47:58.000Z</published>
-    <updated>2018-05-16T09:16:13.453Z</updated>
+    <updated>2018-05-19T14:21:11.360Z</updated>
     
     <content type="html"><![CDATA[<p>到今天总算是布置得差不多了，这个博客总算是能上线了吧。</p><p>在这个分类里面，我大概会记录一些新学习的技术/工具的一些基本知识，权当作自己的笔记，方便再次需要的时候不用再点开好多个标签页从头学习一遍。当然也挺希望自己的一些小经验有机会帮到有些人吧，当然欢迎交流。</p>]]></content>
     
@@ -79,19 +144,19 @@
     
     </summary>
     
-      <category term="coding" scheme="http://susanoo.me/categories/coding/"/>
+      <category term="techs" scheme="http://susanoo.me/cat/techs/"/>
     
     
   </entry>
   
   <entry>
     <title>mdTest</title>
-    <link href="http://susanoo.me/shares/mdTest.html"/>
-    <id>http://susanoo.me/shares/mdTest.html</id>
+    <link href="http://susanoo.me/unsorted/details/mdTest/mdTest.html"/>
+    <id>http://susanoo.me/unsorted/details/mdTest/mdTest.html</id>
     <published>2018-05-16T05:08:39.000Z</published>
-    <updated>2018-05-16T16:34:47.569Z</updated>
+    <updated>2018-05-19T14:21:56.695Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="This-is-a-h1-title-标题"><a href="#This-is-a-h1-title-标题" class="headerlink" title="This is a h1 title 标题"></a>This is a h1 title 标题</h1><h2 id="This-is-a-h2-title-标题"><a href="#This-is-a-h2-title-标题" class="headerlink" title="This is a h2 title 标题"></a>This is a h2 title 标题</h2><h3 id="This-is-a-h3-title-标题"><a href="#This-is-a-h3-title-标题" class="headerlink" title="This is a h3 title 标题"></a>This is a h3 title 标题</h3><h4 id="This-is-a-h4-title-标题"><a href="#This-is-a-h4-title-标题" class="headerlink" title="This is a h4 title 标题"></a>This is a h4 title 标题</h4><h5 id="This-is-a-h5-title-标题"><a href="#This-is-a-h5-title-标题" class="headerlink" title="This is a h5 title 标题"></a>This is a h5 title 标题</h5><h6 id="This-is-a-h6-title-标题"><a href="#This-is-a-h6-title-标题" class="headerlink" title="This is a h6 title 标题"></a>This is a h6 title 标题</h6><p>body test here.</p><p>It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i.</p><p>正文测试。</p><p>这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我；</p><p>Codeblock test here.</p><p><strong>普通的代码块</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert(&apos;Hello World!&apos;);</span><br></pre></td></tr></table></figure><p><strong>指定语言(Python)</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">testfunc</span><span class="params">()</span>:</span></span><br><span class="line"></span><br><span class="line">​print(<span class="string">'welcome'</span>)</span><br><span class="line"></span><br></pre></td></tr></table></figure><p><strong>md代码块</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert(&apos;Hello World&apos;)</span><br></pre></td></tr></table></figure><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">testfunc</span><span class="params">()</span>:</span></span><br><span class="line">print(<span class="string">'welcome'</span>)</span><br></pre></td></tr></table></figure><p><strong>图片引用</strong></p><ul><li><p>with blockquote</p><img src="/shares/mdTest/test.jpg" title="This is a test image with blockquote"></li><li><p>not with blockquote</p><p><img src="test.jpg" alt="This is a test image  with blockquote"></p></li></ul><hr><a id="more"></a><p>body test here.</p><p>It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i.</p><p>正文测试。</p><p>这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我；</p><hr><p>body test here.</p><p>It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i.</p><p>正文测试。</p><p>这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我；</p><hr><p>body test here.</p><p>It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i.</p><p>正文测试。</p><p>这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我；</p><hr><p>body test here.</p><p>It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i.</p><p>正文测试。</p><p>这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我；</p><hr><p>EOF</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="This-is-a-h1-title-标题"><a href="#This-is-a-h1-title-标题" class="headerlink" title="This is a h1 title 标题"></a>This is a h1 title 标题</h1><h2 id="This-is-a-h2-title-标题"><a href="#This-is-a-h2-title-标题" class="headerlink" title="This is a h2 title 标题"></a>This is a h2 title 标题</h2><h3 id="This-is-a-h3-title-标题"><a href="#This-is-a-h3-title-标题" class="headerlink" title="This is a h3 title 标题"></a>This is a h3 title 标题</h3><h4 id="This-is-a-h4-title-标题"><a href="#This-is-a-h4-title-标题" class="headerlink" title="This is a h4 title 标题"></a>This is a h4 title 标题</h4><h5 id="This-is-a-h5-title-标题"><a href="#This-is-a-h5-title-标题" class="headerlink" title="This is a h5 title 标题"></a>This is a h5 title 标题</h5><h6 id="This-is-a-h6-title-标题"><a href="#This-is-a-h6-title-标题" class="headerlink" title="This is a h6 title 标题"></a>This is a h6 title 标题</h6><p>body test here.</p><p>It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i.</p><p>正文测试。</p><p>这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我；</p><p>Codeblock test here.</p><p><strong>普通的代码块</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert(&apos;Hello World!&apos;);</span><br></pre></td></tr></table></figure><p><strong>指定语言(Python)</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">testfunc</span><span class="params">()</span>:</span></span><br><span class="line"></span><br><span class="line">​print(<span class="string">'welcome'</span>)</span><br><span class="line"></span><br></pre></td></tr></table></figure><p><strong>md代码块</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert(&apos;Hello World&apos;)</span><br></pre></td></tr></table></figure><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">testfunc</span><span class="params">()</span>:</span></span><br><span class="line">print(<span class="string">'welcome'</span>)</span><br></pre></td></tr></table></figure><p><strong>图片引用</strong></p><ul><li><p>with blockquote</p></li><li><p>not with blockquote</p><p><img src="test.jpg" alt="This is a test image  with blockquote"></p></li></ul><hr><a id="more"></a><p>body test here.</p><p>It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i.</p><p>正文测试。</p><p>这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我；</p><hr><p>body test here.</p><p>It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i.</p><p>正文测试。</p><p>这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我；</p><hr><p>body test here.</p><p>It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i.</p><p>正文测试。</p><p>这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我；</p><hr><p>body test here.</p><p>It’s a very long paragraph. Dwadawffa feafg awd a wda a awdawfaf wd aw awd wadawdwaadafwi iej i jai jifjaw jej apop fjapwjep jpiajepo jofajej iajiopejf papfwp fwef jailowglhlakj ljdfiwej ewlifal jil, dhjaiojdeeawji jgiawjgowej jejaiw jfioewjf jlwjaf jpfj epfjaij fejilaj lfjioej flajef aejfilajj eijfaljefj lajflawj i.</p><p>正文测试。</p><p>这是个很长的段落。接待外来交代完了就打完了德莱文减低辣味大为降低我垃圾俩我就拉我就覅垃圾垃圾了，哇大家我交代完了就打我记得啦网络覆盖了。而骄傲覅金额为金额为老费劲啊我垃圾。大卫啤酒废品王二个配件恩爱哦吉奥尔匹及法国爱哦王府井金额按我；啊金佛微积分；啊我姐夫；欧吉安；哦欸附件阿文我；</p><hr><p>EOF</p>]]></content>
     
     <summary type="html">
     
@@ -110,7 +175,7 @@
 &lt;p&gt;&lt;strong&gt;图片引用&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;with blockquote&lt;/p&gt;
-&lt;img src=&quot;/shares/mdTest/test.jpg&quot; title=&quot;This is a test image with blockquote&quot;&gt;
+
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;not with blockquote&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;test.jpg&quot; alt=&quot;This is a test image  with blockquote&quot;&gt;&lt;/p&gt;
@@ -119,8 +184,6 @@
 &lt;hr&gt;
     
     </summary>
-    
-      <category term="shares" scheme="http://susanoo.me/categories/shares/"/>
     
     
   </entry>
