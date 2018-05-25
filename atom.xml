@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://susanoo.me/"/>
-  <updated>2018-05-25T12:03:28.555Z</updated>
+  <updated>2018-05-25T12:06:08.468Z</updated>
   <id>http://susanoo.me/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
@@ -16,7 +16,7 @@
     <link href="http://susanoo.me/shares/shares/share-1/share-1.html"/>
     <id>http://susanoo.me/shares/shares/share-1/share-1.html</id>
     <published>2018-05-25T08:45:11.000Z</published>
-    <updated>2018-05-25T12:03:28.555Z</updated>
+    <updated>2018-05-25T12:06:08.468Z</updated>
     
     <content type="html"><![CDATA[<h2 id="About-Launchy"><a href="#About-Launchy" class="headerlink" title="About Launchy"></a>About Launchy</h2><p>Launchy是一个免费，开源的跨平台快速启动工具，主要是通过快捷键方式叫出一个搜索框，在里面输入你想要的或者命令，就可以达到快速启动的效果，可以完全通过键盘达到高效并快速启动软件的目的，同样也可以搜索本地文件，快速打开网页，以某种指令启动某个程序等等，可以到说明文档中看到支持的功能，总体给我的感觉就是增强的 <code>Windows+R</code> 和 <code>Cortana</code> 的合体版本，如果有这方面需求不妨一试。<br><a id="more"></a></p><h2 id="Download"><a href="#Download" class="headerlink" title="Download"></a>Download</h2><p>下载的话在<a href="http://www.launchy.net/index.php" target="_blank" rel="noopener">Launchy</a>的官网就可以找到，提供各种系统的版本，如下图：<br><img src="/shares/share-1/download_page.png" alt="download_page"></p>]]></content>
     
