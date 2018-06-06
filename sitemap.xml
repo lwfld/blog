@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://susanoo.me/tools/hexo.html</loc>
+    
+    <lastmod>2018-06-06T15:03:52.805Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://susanoo.me/tools/jupyter.html</loc>
+    
+    <lastmod>2018-06-06T15:03:31.966Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://susanoo.me/tools/st3.html</loc>
     
     <lastmod>2018-06-06T10:30:18.262Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://susanoo.me/thoughts/thoughts0519.html</loc>
     
     <lastmod>2018-06-06T10:29:32.380Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://susanoo.me/tools/hexo.html</loc>
-    
-    <lastmod>2018-06-06T10:20:51.672Z</lastmod>
     
   </url>
   
